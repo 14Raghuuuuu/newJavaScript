@@ -29,10 +29,11 @@ buttons.forEach(function (button) {
     }
   });
 });
-
+```
 
 ## project 2 
-
+## Solution code
+```
 const form = document.querySelector('form');
 
 form.addEventListener('submit', function (e) {
@@ -63,5 +64,4 @@ form.addEventListener('submit', function (e) {
     } 
   }
 });
-
 ```
