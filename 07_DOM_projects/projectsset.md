@@ -6,7 +6,7 @@
 
 ## project 1 
 ### solution code 
-``` javascsript code1 
+``` javascript
 const buttons = document.querySelectorAll('.button');
 const body = document.querySelector('body');
 
@@ -33,7 +33,7 @@ buttons.forEach(function (button) {
 
 ## project 2 
 ## Solution code
-```
+``` javascript
 const form = document.querySelector('form');
 
 form.addEventListener('submit', function (e) {
@@ -68,7 +68,7 @@ form.addEventListener('submit', function (e) {
 ## project 3 
 
 ## solution code 
-```
+``` javascript
 const clock = document.getElementById('clock');
 // const clock = document.querySelector('#clock')
 
